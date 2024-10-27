@@ -2,7 +2,7 @@
 
 # Mentor
 
-Issues van ondersteuning bij leertaken:
+Issues met ondersteuning bij leertaken:
 
 https://github.com/kimnikitaschijf/the-client-website/issues/7 <br />
 https://github.com/halima98/the-client-website/issues/12 <br />
