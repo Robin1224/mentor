@@ -22,6 +22,7 @@ https://github.com/ambersr/the-client-website/issues/3 <br />
 https://github.com/julia-stevens/the-client-website/issues/2 <br />
 https://github.com/julia-stevens/the-client-website/issues/3 <br />
 https://github.com/julia-stevens/the-client-website/issues/4 <br />
+https://github.com/julia-stevens/fix-the-flow-interactive-website/issues/4#issuecomment-2511257208 <br />
 https://github.com/Karima002/The-client-s-website/issues/4 <br />
 https://github.com/Karima002/The-client-s-website/issues/5 <br />
 
